@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Imran-Khalid-code/Imran-Khalid-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Nice to meet you! I'm Imran, a UK based Junior Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently studying on  junior developer bootcamp course at _nology
+- 🌱 I’m currently learning everything 😄 
+- 📫 How to reach me: ...imran.khalid.code1@gmail.com
+- ⚡ Fun fact: ...I'm a Husband, Father and Developer from Cardiff who loves to travel and try my hand at some Tennis!
+
+### Skills
+- HTML/CSS
+- JavaScript
+- React
+- Node.Js
+- Swift
+
+
+### Github Stats
+
+[![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imran-Khalid-code)](https://github.com/Imran/github-readme-stats)) 
