@@ -14,7 +14,7 @@ Nice to meet you! I'm Imran, a UK based Junior Software Developer
 - JavaScript
 - React
 - Node.Js
-- Swift
+
 
 
 ### Github Stats
