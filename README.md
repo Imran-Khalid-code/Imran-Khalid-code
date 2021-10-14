@@ -13,7 +13,6 @@ Nice to meet you! I'm Imran, a UK based Junior Software Developer
 - SASS
 - JavaScript
 - React
-- Node.Js
 
 
 
