@@ -12,7 +12,7 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 - HTML/CSS
 - SASS
 - JavaScript
-- React
+- JS React
 - Python
 
 
