@@ -8,8 +8,7 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 
 
 ### Skills
-- HTML/CSS
-- SASS
+
 - JavaScript
 - JS React
 - Python
