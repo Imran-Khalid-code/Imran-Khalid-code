@@ -11,7 +11,12 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 
 - JavaScript
 - JS React
-- Python
+- CSS/HTML
+- SASS
+- NODE
+- API'S
+- JEST testing
+- React testing 
 
 
 ### Github Stats
