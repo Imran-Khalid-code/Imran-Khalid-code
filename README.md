@@ -16,7 +16,9 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 - NODE
 - API'S
 - JEST testing
-- React testing 
+- React testing
+- SQL
+- Firebase 
 
 
 ### Github Stats
