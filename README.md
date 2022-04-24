@@ -13,7 +13,7 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 - JS React
 - CSS/HTML
 - SASS
-- NODE
+- NODE JS
 - API'S
 - JEST testing
 - React testing
