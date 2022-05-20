@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Nice to meet you! I'm Imran, a UK based Junior Web developer
+Nice to meet you! I'm Imran, a UK based Junior Software developer
 
 
 - 📫 How to reach me: ...ikhalidf7@gmail.com
