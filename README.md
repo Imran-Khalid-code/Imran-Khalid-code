@@ -12,6 +12,7 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 - JavaScript
 - JS React
 - CSS/HTML
+- Bootstrap
 - SASS
 - NODE JS
 - API'S
