@@ -19,6 +19,8 @@ Nice to meet you! I'm Imran, a UK based Junior Web developer
 - React testing
 - SQL
 - Firebase 
+- PHP
+- Python
 
 
 ### Github Stats
