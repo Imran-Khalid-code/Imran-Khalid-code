@@ -20,7 +20,7 @@ Nice to meet you! I'm Imran, a UK based Junior Software developer
 - React testing
 - SQL
 - Firebase 
-- Python
+- OOP Python
 - iOS & Swift
 
 
